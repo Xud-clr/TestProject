@@ -1,0 +1,3 @@
+[submodule "Scripts"]
+	path = Scripts
+	url = git@github.com:Xud-clr/Scripts.git
